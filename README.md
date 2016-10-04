@@ -1,7 +1,7 @@
 # GroupEng
 
 This is a port of https://www.groupeng.org/ to github.
-Original authors:
+
 GroupEng was written by Thomas Dimiduk (Cornell 2008, Currently a Graduate Student in Physics at Harvard) with Kathryn Dimiduk of the Cornell Engineering Teaching Excellence Institute.
 
 GroupEng is an open source (AGPLv3) program that makes it easy for instructors to assign students to groups for projects or groupwork, even with large classes.
