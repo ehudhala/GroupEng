@@ -28,11 +28,14 @@ GroupEng is still fairly experimental software. I hope it is useful to you, but 
 
 ## Documentation and Publications
 
-Kathryn's talk on GroupEng at the ASEE Lawrence Section in March 2012.
+Kathryn's [talk](https://www.groupeng.org/files/ASSE_Lawrence_GroupEng_Workshop.pdf) on GroupEng at the ASEE Lawrence Section in March 2012.
 
 We presented GroupEng at the 2011 WEPAN conference in Seattle.
 
-We gave a talk and wrote a paper on GroupEng.
+We gave a [talk](https://www.groupeng.org/files/GroupEng_Talk_WEPAN.pdf) and wrote a [paper](https://www.groupeng.org/files/GroupEng_Paper_WEPAN.pdf) on GroupEng.
 
 These two documents give a good introduction and overview of GroupEng and how you should think about using it. We have simplified the input files since those documents were written, so follow the example that comes with the program instead of the directions in the paper.
 
+Original GroupEng source: 
+
+GroupEng is on launchpad: launchpad.net/groupeng. You can get the latest development code there. If you find a bug or want to request a feature, please file a bug report on launchpad, or email me directly.
